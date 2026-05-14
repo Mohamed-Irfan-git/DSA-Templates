@@ -2,6 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+//very very usefull when doing dynamic graph problams 
 class DisjointSet{
     public:
         vector<int> parent,rank,size;
